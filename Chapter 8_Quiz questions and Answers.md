@@ -1,6 +1,6 @@
 
 
-What does 'latent variable' refer to in factor analysis?
+1. What does 'latent variable' refer to in factor analysis?
 
 A) A variable that is directly observed
 
@@ -12,7 +12,7 @@ D) A variable measured without error
 
 
 
-Exploratory Factor Analysis (EFA) is primarily used for:
+2. Exploratory Factor Analysis (EFA) is primarily used for:
 
 A) Confirming theoretical constructs
 
@@ -24,7 +24,7 @@ D) Reducing error in data measurement
 
 
 
-Which of the following is a key assumption of Confirmatory Factor Analysis (CFA)?
+3. Which of the following is a key assumption of Confirmatory Factor Analysis (CFA)?
 
 A) No predefined hypothesis about data structure
 
@@ -36,7 +36,7 @@ D) A hypothesised model based on theory or previous studies
 
 
 
-Which statistical test is used to assess the suitability of data for factor analysis?
+4. Which statistical test is used to assess the suitability of data for factor analysis?
 
 A) Chi-square test
 
@@ -48,7 +48,7 @@ D) T-test
 
 
 
-Factor loadings in factor analysis represent:
+5. Factor loadings in factor analysis represent:
 
 A) Correlations between variables and factors
 
@@ -60,7 +60,7 @@ D) Independent variable coefficients
 
 
 
-Which rotation method assumes that factors are correlated?
+6. Which rotation method assumes that factors are correlated?
 
 A) Varimax
 
@@ -72,7 +72,7 @@ D) Oblimin
 
 
 
-The Kaiser-Meyer-Olkin (KMO) measure is used to:
+7. The Kaiser-Meyer-Olkin (KMO) measure is used to:
 
 A) Determine the number of factors to retain
 
@@ -84,7 +84,7 @@ D) Identify outliers in the data
 
 
 
-Which of the following methods is NOT typically used in the factor extraction phase of EFA?
+8. Which of the following methods is NOT typically used in the factor extraction phase of EFA?
 
 A) Principal Component Analysis
 
@@ -96,7 +96,7 @@ D) Principal Axis Factoring
 
 
 
-In factor analysis, what does an eigenvalue represent?
+9. In factor analysis, what does an eigenvalue represent?
 
 A) The amount of variance a factor explains relative to other factors
 
@@ -108,7 +108,7 @@ D) The strength of the relationship between observed variables and factors
 
 
 
-Which of the following is true about the Scree Test?
+10. Which of the following is true about the Scree Test?
 
 A) It tests the model’s goodness-of-fit
 
@@ -119,7 +119,7 @@ C) It verifies the assumption of multicollinearity
 D) It checks the consistency of factor loadings across samples
 
 
-
+---
 Answers:
 
 B) A variable that is hidden and inferred from observed data
