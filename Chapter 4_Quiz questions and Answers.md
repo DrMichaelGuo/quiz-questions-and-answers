@@ -139,7 +139,7 @@ D) Pareto Chart
 
 
 
-
+---
 
 
 Answers:
