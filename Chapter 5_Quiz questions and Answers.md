@@ -117,7 +117,7 @@
  D. It increases the power of the test.
 
 
-
+---
 
 
 Answers:
