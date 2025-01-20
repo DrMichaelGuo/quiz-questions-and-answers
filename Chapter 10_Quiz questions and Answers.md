@@ -1,6 +1,6 @@
 
 
-What does Structural Equation Modelling (SEM) combine?
+1. What does Structural Equation Modelling (SEM) combine?
 
 A) Simple linear regression and multiple regression
 
@@ -10,7 +10,7 @@ C) Path analysis and correlation
 
 D) Cluster analysis and discriminant analysis
 
-Which of the following is an advantage of SEM over traditional statistical techniques?
+2. Which of the following is an advantage of SEM over traditional statistical techniques?
 
 A) It only analyses observed variables.
 
@@ -20,7 +20,7 @@ C) It uses fewer data points than multiple regression.
 
 D) It cannot test for complex relationships like mediation.
 
-In SEM, latent variables are:
+3. In SEM, latent variables are:
 
 A) Measurable directly using indicators
 
@@ -30,7 +30,7 @@ C) Always measured through a single observed variable
 
 D) Irrelevant to path analysis
 
-Which of the following methods is commonly used to estimate parameters in SEM?
+4. Which of the following methods is commonly used to estimate parameters in SEM?
 
 A) Ordinary Least Squares (OLS)
 
@@ -40,7 +40,7 @@ C) Analysis of Variance (ANOVA)
 
 D) Logistic Regression
 
-Confirmatory Factor Analysis (CFA) is used to:
+5. Confirmatory Factor Analysis (CFA) is used to:
 
 A) Test the relationships among latent variables
 
@@ -50,7 +50,7 @@ C) Validate measurement models and ensure reliability and validity
 
 D) Perform exploratory data analysis
 
-Which of the following is an indicator of model fit in SEM?
+6. Which of the following is an indicator of model fit in SEM?
 
 A) P-value from ANOVA
 
@@ -60,7 +60,7 @@ C) Comparative Fit Index (CFI)
 
 D) Standard Deviation
 
-What does a Root Mean Square Error of Approximation (RMSEA) value of less than 0.06 indicate?
+7. What does a Root Mean Square Error of Approximation (RMSEA) value of less than 0.06 indicate?
 
 A) The model does not fit the data well.
 
@@ -70,7 +70,7 @@ C) The sample size is insufficient.
 
 D) The model is too complex.
 
-In path analysis, a direct effect refers to:
+8. In path analysis, a direct effect refers to:
 
 A) The relationship between two variables mediated by a third variable
 
@@ -80,7 +80,7 @@ C) The relationship between a latent variable and an observed variable
 
 D) The effect of a moderator variable
 
-Which of the following is a method for testing the validity of a latent construct in CFA?
+9. Which of the following is a method for testing the validity of a latent construct in CFA?
 
 A) Root Mean Square Error of Approximation (RMSEA)
 
@@ -90,7 +90,7 @@ C) Average Variance Extracted (AVE)
 
 D) Goodness-of-Fit Index (GFI)
 
-What does model specification involve in the SEM process?
+10. What does model specification involve in the SEM process?
 
 A) Estimating the parameters of the model
 
@@ -104,7 +104,7 @@ D) Ensuring model identification and estimation
 
 
 
-
+---
 
 
 
