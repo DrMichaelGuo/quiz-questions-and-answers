@@ -1,4 +1,4 @@
-Which of the following best describes positive correlation?
+1. Which of the following best describes positive correlation?
 
 A. Both variables increase together.
 
@@ -10,7 +10,7 @@ D. Both variables decrease together.
 
 
 
-Which example demonstrates a negative correlation?
+2. Which example demonstrates a negative correlation?
 
 A. Number of hours studied and exam scores.
 
@@ -22,7 +22,7 @@ D. Height and weight.
 
 
 
-What does a correlation coefficient of 0 indicate?
+3. What does a correlation coefficient of 0 indicate?
 
 A. Perfect positive correlation.
 
@@ -34,7 +34,7 @@ D. Moderate correlation.
 
 
 
-Pearson’s r is used to measure the relationship between which types of variables?
+4. Pearson’s r is used to measure the relationship between which types of variables?
 
 A. Ranked variables.
 
@@ -46,7 +46,7 @@ D. Continuous variables.
 
 
 
-Spearman’s rho is particularly suitable for:
+5. Spearman’s rho is particularly suitable for:
 
 A. Measuring the linear relationship between continuous variables.
 
@@ -58,7 +58,7 @@ D. Analysing categorical data.
 
 
 
-What is the main assumption of Pearson’s correlation?
+6. What is the main assumption of Pearson’s correlation?
 
 A. The data must be ranked.
 
@@ -70,7 +70,7 @@ D. There is no assumption; Pearson’s r can be used with any data type.
 
 
 
-Which of the following is a misconception about correlation?
+7. Which of the following is a misconception about correlation?
 
 A. Correlation indicates the strength of a relationship.
 
@@ -82,7 +82,7 @@ D. Correlation coefficients range from -1 to +1.
 
 
 
-What does a Spearman’s rho of 0.5 indicate about the relationship between two variables?
+8. What does a Spearman’s rho of 0.5 indicate about the relationship between two variables?
 
 A. A weak positive correlation.
 
@@ -94,7 +94,7 @@ D. No correlation.
 
 
 
-Which of the following statements about coincidental correlation is true?
+9. Which of the following statements about coincidental correlation is true?
 
 A. It suggests a strong underlying connection between variables.
 
@@ -106,7 +106,7 @@ D. It is always negative.
 
 
 
-If the number of trees in a park and the number of cars in a car park show no recognizable relationship, this is an example of:
+10. If the number of trees in a park and the number of cars in a car park show no recognizable relationship, this is an example of:
 
 A. Positive correlation.
 
@@ -116,8 +116,7 @@ C. Coincidental correlation.
 
 D. No correlation.
 
-
-
+---
 Answers
 
 
