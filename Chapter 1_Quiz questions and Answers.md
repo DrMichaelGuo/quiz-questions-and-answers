@@ -1,4 +1,4 @@
-**What is the primary purpose of data analysis in business?**
+**1. What is the primary purpose of data analysis in business?**
 
 a) To make intuitive decisions
 
@@ -10,7 +10,7 @@ d) To increase data storage capacity
 
 
 
-**Which type of data analysis focuses on predicting future events?**
+**2. Which type of data analysis focuses on predicting future events?**
 
 a) Descriptive analysis
 
@@ -22,7 +22,7 @@ d) Exploratory analysis
 
 
 
-**What is a key trend in contemporary business data analysis?**
+**3. What is a key trend in contemporary business data analysis?**
 
 a) Increased use of manual techniques
 
@@ -34,7 +34,7 @@ d) Avoiding predictive analytics
 
  
 
-**Which of the following is an example of structured data?**
+**4. Which of the following is an example of structured data?**
 
 a) Social media posts
 
@@ -46,7 +46,7 @@ d) Blog articles
 
  
 
-**What is the primary challenge addressed by data management strategies?**
+**5. What is the primary challenge addressed by data management strategies?**
 
 a) Enhancing decision-making processes
 
@@ -58,7 +58,7 @@ d) Designing visualisations
 
  
 
-**What principle is central to mind mapping?**
+**6. What principle is central to mind mapping?**
 
 a) Linear progression
 
@@ -70,7 +70,7 @@ d) Avoidance of colours and visuals
 
  
 
-**Which analytical technique provides actionable recommendations for achieving specific goals?**
+**7. Which analytical technique provides actionable recommendations for achieving specific goals?**
 
 a) Descriptive analytics
 
@@ -82,7 +82,7 @@ d) Data cleaning
 
  
 
-**What is the first stage in the data analysis process?**
+**8. What is the first stage in the data analysis process?**
 
 a) Data collection
 
@@ -94,7 +94,7 @@ d) Data interpretation
 
  
 
-**Which tool is commonly used for creating interactive data visualisations?**
+**9. Which tool is commonly used for creating interactive data visualisations?**
 
 a) SPSS
 
@@ -106,7 +106,7 @@ d) Apache Spark
 
  
 
-**What is a benefit of using mind maps in education?**
+**10. What is a benefit of using mind maps in education?**
 
 a) Avoiding the need for visuals
 
