@@ -1,4 +1,4 @@
-What is the primary purpose of cluster analysis?
+1. What is the primary purpose of cluster analysis?
 
 A) To predict future outcomes
 
@@ -10,7 +10,7 @@ D) To calculate the mean of different clusters
 
 
 
-Which of the following is a key component of clustering algorithms?
+2. Which of the following is a key component of clustering algorithms?
 
 A) Regression analysis
 
@@ -22,7 +22,7 @@ D) Time series forecasting
 
 
 
-What is the main difference between K-means clustering and hierarchical clustering?
+3. What is the main difference between K-means clustering and hierarchical clustering?
 
 A) K-means requires the number of clusters to be defined beforehand
 
@@ -34,7 +34,7 @@ D) Hierarchical clustering is faster than K-means
 
 
 
-Which clustering method involves creating a dendrogram to represent the data structure?
+4. Which clustering method involves creating a dendrogram to represent the data structure?
 
 A) K-means clustering
 
@@ -46,7 +46,7 @@ D) PCA-based clustering
 
 
 
-What is the significance of the 'Elbow Method' in K-means clustering?
+5. What is the significance of the 'Elbow Method' in K-means clustering?
 
 A) It helps to identify the optimal number of clusters
 
@@ -58,7 +58,7 @@ D) It defines the maximum iterations for the algorithm
 
 
 
-In cluster analysis, what does 'silhouette coefficient' measure?
+6. In cluster analysis, what does 'silhouette coefficient' measure?
 
 A) The distance between centroids
 
@@ -70,7 +70,7 @@ D) The separation between clusters and their cohesion within
 
 
 
-Which distance metric might be used in clustering analysis?
+7. Which distance metric might be used in clustering analysis?
 
 A) Pearson correlation
 
@@ -82,7 +82,7 @@ D) ANOVA
 
 
 
-What role does 'Ward’s method' play in hierarchical clustering?
+8. What role does 'Ward’s method' play in hierarchical clustering?
 
 A) It minimises the total within-cluster variance
 
@@ -94,7 +94,7 @@ D) It measures the distance between data points
 
 
 
-Which of the following best describes 'agglomerative' clustering?
+9. Which of the following best describes 'agglomerative' clustering?
 
 A) Starting with all data points in one cluster and dividing them
 
@@ -106,7 +106,7 @@ D) Using a predetermined number of clusters to classify data points
 
 
 
-What is a 'dendrogram' used for in hierarchical clustering?
+10. What is a 'dendrogram' used for in hierarchical clustering?
 
 A) To predict outcomes based on cluster analysis
 
@@ -116,7 +116,7 @@ C) To calculate the centroid of each cluster
 
 D) To determine the p-value for hypothesis testing
 
-
+---
 
 Answers:
 
