@@ -1,7 +1,11 @@
 What is the primary purpose of data analysis in business?
+
 a) To make intuitive decisions
+
 b) To collect large volumes of data
+
 c) To extract meaningful information for decision-making
+
 d) To increase data storage capacity
 
 
