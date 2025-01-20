@@ -1,4 +1,4 @@
-1. The % drop in price from £6.50 to £5.10, rounded to 4 significant figures, is:
+**1. The % drop in price from £6.50 to £5.10, rounded to 4 significant figures, is:**
 
 Select one:
 
@@ -14,7 +14,7 @@ d. 21.5385
 
 
 
-2. If Sales = £1,400,000 and Cost of Sales = £754, 000, then the Gross Profit %, rounded to the nearest integer, is:
+**2. If Sales = £1,400,000 and Cost of Sales = £754, 000, then the Gross Profit %, rounded to the nearest integer, is:**
 
 Select one:
 
@@ -30,7 +30,7 @@ d. 54%
 
 
 
-3. State the base and exponent of the following logarithmic function: Log3 (81)
+**3. State the base and exponent of the following logarithmic function: Log3 (81)**
 
 Select one:
 
@@ -46,7 +46,7 @@ d. base = 4; exponent = 3
 
 
 
-4. 5,236,000,000 in scientific notation is:
+**4. 5,236,000,000 in scientific notation is:**
 
 Select one:
 
@@ -62,7 +62,7 @@ d. 5.24 x 109
 
 
 
-5. Find the value of x for the following equation: 10 = 4x - 2(x +8)
+**5. Find the value of x for the following equation: 10 = 4x - 2(x +8)**
 
 Select one:
 
@@ -78,7 +78,7 @@ d. x = 7
 
 
 
-6. Find the intersection for the following:
+**6. Find the intersection for the following:**
 
 Y = 4x - 4; 4Y = 2x - 2
 
@@ -96,7 +96,7 @@ d. x = 1, y= 1
 
 
 
-7. Find the coefficients of the following quadratic equation: 3x2 - 4x = y - 5
+**7. Find the coefficients of the following quadratic equation: 3x2 - 4x = y - 5**
 
 Select one:
 
@@ -114,7 +114,7 @@ d. a = 3, b = 4, c = -5
 
 
 
-
+---
 
 
 
