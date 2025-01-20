@@ -1,6 +1,6 @@
 
 
-Which of the following best describes the concept of data privacy?
+1. Which of the following best describes the concept of data privacy?
 
 A) Ensuring data is not altered during analysis
 
@@ -10,7 +10,7 @@ C) Allowing individuals control over their personal information
 
 D) Using encryption to secure data during transmission
 
-Which key principle does the General Data Protection Regulation (GDPR) promote regarding data collection?
+2. Which key principle does the General Data Protection Regulation (GDPR) promote regarding data collection?
 
 A) Data accuracy must be maintained throughout analysis
 
@@ -20,7 +20,7 @@ C) Data must be shared openly for transparency
 
 D) Data must be encrypted at all times
 
-Informed consent is important in data analysis because it ensures that individuals:
+3. Informed consent is important in data analysis because it ensures that individuals:
 
 A) Know the potential inaccuracies of their data
 
@@ -30,7 +30,7 @@ C) Are offered payment for their data
 
 D) Have access to all data collected by a business
 
-Which of the following represents a potential ethical issue when using third-party data?
+4. Which of the following represents a potential ethical issue when using third-party data?
 
 A) Data minimisation
 
@@ -40,7 +40,7 @@ C) Encryption of data during transmission
 
 D) Data collection in non-EU regions
 
-Algorithmic bias can be reduced by:
+5. Algorithmic bias can be reduced by:
 
 A) Increasing the dataset size without considering diversity
 
@@ -50,7 +50,7 @@ C) Ensuring diverse representation in training datasets
 
 D) Avoiding transparency in algorithm design
 
-Which professional organisation provides ethical guidelines for statisticians in the UK?
+6. Which professional organisation provides ethical guidelines for statisticians in the UK?
 
 A) Association for Computing Machinery (ACM)
 
@@ -60,7 +60,7 @@ C) American Statistical Association (ASA)
 
 D) British Ethical Data Society (BEDS)
 
-What is one primary challenge of using 'black-box' algorithms in data analysis?
+7. What is one primary challenge of using 'black-box' algorithms in data analysis?
 
 A) They require less data to train effectively
 
@@ -70,7 +70,7 @@ C) They can be easily replicated by others
 
 D) Their decision-making process is often difficult to explain
 
-The ethical concept of accountability in data analysis means that:
+8. The ethical concept of accountability in data analysis means that:
 
 A) Data analysts must be anonymous in their work
 
@@ -80,7 +80,7 @@ C) Analysts are responsible for their actions and should justify their methods
 
 D) Algorithms must never include sensitive data
 
-Which of the following methods helps ensure fairness in data analysis?
+9. Which of the following methods helps ensure fairness in data analysis?
 
 A) Blind analysis to remove sensitive attributes
 
@@ -90,7 +90,7 @@ C) Encrypting data during analysis
 
 D) Limiting access to data within the organisation
 
-Which technique helps protect data privacy by permanently removing personal identifiers?
+10. Which technique helps protect data privacy by permanently removing personal identifiers?
 
 A) Encryption
 
@@ -100,7 +100,7 @@ C) Anonymisation
 
 D) Data duplication
 
-
+---
 
 Answers:
 
